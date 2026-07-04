@@ -27,3 +27,4 @@ script.js
 ## Core Narrative
 
 Caspian Liang is a Transportation PhD candidate at Beijing Jiaotong University. The public narrative is deliberately narrow: AI Agent workflows, logistics constraints, operations research, and decision-support prototypes.
+Deployment refresh: 2026-07-05 local portfolio polish sync.
