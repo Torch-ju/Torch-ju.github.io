@@ -1,6 +1,6 @@
 # Caspian Liang Personal Website
 
-Public GitHub Pages site for the Torch-ju job-search portfolio.
+GitHub Pages portfolio for Caspian Liang / 梁程炬. The site presents a desensitized resume dossier for AI Agent, logistics decision intelligence, and operations research roles.
 
 Website target:
 
@@ -16,14 +16,14 @@ styles.css
 script.js
 ```
 
-## Disclosure Boundary
+## Public boundary
 
-- No API keys.
+- No service credentials.
 - No private competition data.
 - No private enterprise project materials.
-- No public phone number or private messaging handle.
+- No public phone number, private email, or private messaging handle.
 - Forked repositories are treated as references, not original projects.
 
 ## Core Narrative
 
-Caspian Liang is a Transportation PhD candidate at Beijing Jiaotong University, focused on logistics decision intelligence, operations research, and AI Agent applications for supply chain scenarios.
+Caspian Liang is a Transportation PhD candidate at Beijing Jiaotong University. The public narrative is deliberately narrow: AI Agent workflows, logistics constraints, operations research, and decision-support prototypes.
