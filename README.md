@@ -21,7 +21,7 @@ script.js
 - No API keys.
 - No private competition data.
 - No private enterprise project materials.
-- No public phone number or WeChat ID.
+- No public phone number or private messaging handle.
 - Forked repositories are treated as references, not original projects.
 
 ## Core Narrative
