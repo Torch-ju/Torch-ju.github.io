@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Logistics decision network avatar</title>
+  <desc id="desc">A clean logistics network symbol for a public portfolio website.</desc>
+  <rect width="512" height="512" rx="256" fill="#e9f6ff"/>
+  <circle cx="256" cy="256" r="204" fill="#ffffff" stroke="#b9dbf2" stroke-width="12"/>
+  <path d="M150 309C190 250 220 222 257 214C304 204 340 170 372 116" fill="none" stroke="#1167a8" stroke-width="18" stroke-linecap="round"/>
+  <path d="M139 196C187 210 225 238 256 278C284 315 321 339 376 349" fill="none" stroke="#2c7a62" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="139" cy="196" r="28" fill="#1167a8"/>
+  <circle cx="150" cy="309" r="28" fill="#2c7a62"/>
+  <circle cx="257" cy="214" r="30" fill="#ffffff" stroke="#1167a8" stroke-width="12"/>
+  <circle cx="256" cy="278" r="30" fill="#ffffff" stroke="#2c7a62" stroke-width="12"/>
+  <circle cx="372" cy="116" r="28" fill="#a66d0a"/>
+  <circle cx="376" cy="349" r="28" fill="#1167a8"/>
+  <rect x="173" y="373" width="166" height="48" rx="8" fill="#0b4d7e"/>
+  <text x="256" y="405" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">OR + AI</text>
+</svg>
