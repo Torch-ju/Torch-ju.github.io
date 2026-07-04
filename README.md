@@ -1,4 +1,4 @@
-# Chengju Liang Personal Website
+# Caspian Liang Personal Website
 
 Public GitHub Pages site for the Torch-ju job-search portfolio.
 
@@ -26,5 +26,4 @@ script.js
 
 ## Core Narrative
 
-Transportation PhD candidate at Beijing Jiaotong University, focused on logistics decision intelligence, operations research, and AI Agent applications for supply chain scenarios.
-
+Caspian Liang is a Transportation PhD candidate at Beijing Jiaotong University, focused on logistics decision intelligence, operations research, and AI Agent applications for supply chain scenarios.
