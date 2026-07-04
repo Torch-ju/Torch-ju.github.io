@@ -307,6 +307,32 @@ main {
   font-weight: 900;
 }
 
+.hero-actions {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.hero-actions a {
+  min-height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 14px;
+  border: 1px solid var(--ink);
+  background: var(--ink);
+  color: #fff;
+  font-weight: 900;
+}
+
+.hero-actions a + a {
+  background: #fff;
+  color: var(--ink);
+}
+
 .section-wrap {
   margin-top: 20px;
   padding: 28px;
@@ -453,7 +479,7 @@ main {
 
 .links-section .link-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 12px;
 }
 
@@ -513,6 +539,10 @@ main {
   .proof-strip,
   .links-section .link-grid {
     grid-template-columns: 1fr;
+  }
+
+  .hero-actions {
+    display: grid;
   }
 }
 
