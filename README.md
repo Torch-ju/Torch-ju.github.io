@@ -21,7 +21,7 @@ script.js
 - No service credentials.
 - No private competition data.
 - No private enterprise project materials.
-- No public phone number, private email, or private messaging handle.
+- No direct contact channels or unapproved identity/contact assets.
 - Forked repositories are treated as references, not original projects.
 
 ## Core Narrative
