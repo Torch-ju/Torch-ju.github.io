@@ -1,6 +1,6 @@
 const navToggle = document.querySelector(".nav-toggle");
-const navLinks = document.querySelector(".nav-links");
-const navItems = Array.from(document.querySelectorAll(".nav-links a"));
+const navLinks = document.querySelector(".masthead__menu");
+const navItems = Array.from(document.querySelectorAll(".masthead__menu a"));
 const sections = navItems
   .map((link) => document.querySelector(link.getAttribute("href")))
   .filter(Boolean);
@@ -19,7 +19,7 @@ navItems.forEach((link) => {
 
 const setActiveLink = () => {
   const offset = 120;
-  let currentId = "home";
+  let currentId = "about-me";
 
   sections.forEach((section) => {
     if (section.getBoundingClientRect().top <= offset) {
