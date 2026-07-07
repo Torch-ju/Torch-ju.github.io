@@ -1,6 +1,6 @@
-# Caspian Liang Academic Homepage
+# Chengju Liang Academic Homepage
 
-GitHub Pages academic homepage for Caspian Liang / 梁程炬. The site presents a desensitized researcher profile for operations research, logistics decision intelligence, and AI Agent applications.
+GitHub Pages academic homepage for Chengju Liang / 梁程炬. The site presents a public researcher profile for operations research, logistics decision intelligence, and AI Agent applications.
 
 Website target:
 
@@ -27,5 +27,5 @@ assets/profile-cg.png
 
 ## Core Narrative
 
-Caspian Liang is a Transportation PhD candidate at Beijing Jiaotong University. The public narrative is deliberately narrow: AI Agent workflows, logistics constraints, operations research, and decision-support prototypes.
-Deployment refresh: 2026-07-07 academic homepage sync.
+Chengju Liang is a Transportation PhD candidate at Beijing Jiaotong University. The public narrative is deliberately narrow but written in a more personal voice: logistics constraints, operations research, AI Agent workflows, and decision-support prototypes.
+Deployment refresh: 2026-07-07 personal academic homepage voice sync.
