@@ -28,4 +28,13 @@ assets/profile-cg.png
 ## Core Narrative
 
 Chengju Liang is a Transportation PhD candidate at Beijing Jiaotong University. The public narrative is deliberately narrow but written in a more personal voice: logistics constraints, operations research, AI Agent workflows, and decision-support prototypes.
+
+## Public Portfolio Entries
+
+- Campus Delivery Agent / 交大微澜
+- Freight Matching Agent / 满帮 AI 决策
+- my-quant-lab
+- This GitHub Pages website
+
+The website does not publish or link to a personal resume. Application documents remain in the private local workflow.
 Deployment refresh: 2026-07-07 personal academic homepage voice sync.
